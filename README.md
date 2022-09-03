@@ -1,1 +1,1 @@
-# Lottery-Smart-Contract
+# Solidity Smart Contracts
